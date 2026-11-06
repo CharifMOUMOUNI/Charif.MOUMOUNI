@@ -1,3 +1,4 @@
+![Charif MOUMOUNI](ch.jpg)
 
 Je suis titulaire d'une double **Licence en Statistique Appliquée et en Economie Agricole** ( Université de Parakou), passionné par la science des données et l'IA appliquée dans le secteur agricole. je procède des expériences de base en modélisation statistique et simulation de Monte-Carlo. Je vous aide réalisé des analyses statistiques et produits des rapports statistiques. 
 
