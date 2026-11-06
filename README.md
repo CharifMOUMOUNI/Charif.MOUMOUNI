@@ -1,7 +1,5 @@
-#  Bonjour, moi c'est Charif MOUMOUNI !
 
-
-Titulaire d'une double **Licence en Statistique Appliquée et en Economie Agricole** ( Université de Parakou), passionné par la science des données et l'IA appliquée dans le secteur agricole. je procède des expériences de base en modélisation statistique et simulation de Monte-Carlo. Je vous aide réalisé des analyses statistiques et produits des rapports statitqiues. 
+Je suis titulaire d'une double **Licence en Statistique Appliquée et en Economie Agricole** ( Université de Parakou), passionné par la science des données et l'IA appliquée dans le secteur agricole. je procède des expériences de base en modélisation statistique et simulation de Monte-Carlo. Je vous aide réalisé des analyses statistiques et produits des rapports statistiques. 
 
 ---
 
@@ -50,7 +48,7 @@ Titulaire d'une double **Licence en Statistique Appliquée et en Economie Agrico
 
 ## 📬 Contactez-moi
 
-* **Email :** [moumounicharif36@gmail.com](mailto:moumounicharif36@gmail.com)[cite: 1]
-* **Téléphone :** +229 01 90 37 83 98 / 01 92 38 53 39[cite: 1]
-* **Localisation :** Copargo, Donga, Bénin[cite: 1]
+* **Email :** [moumounicharif36@gmail.com](mailto:moumounicharif36@gmail.com)
+* **Téléphone :** +229 01 90 37 83 98 / 01 92 38 53 39
+* **Localisation :** Copargo, Donga, Bénin
 * **LinkedIn / Portfolio :** *(Ajoutez vos liens ici)*
