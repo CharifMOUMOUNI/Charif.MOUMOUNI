@@ -1,11 +1,12 @@
 # GitHub Pages / Jekyll Configuration
 title: "Charif MOUMOUNI"
+![Charif MOUMOUNI](ch.jpg)
 logo: IMG/ch.jpg
 description: "Portfolio en Analyse de Données, Économétrie & Intelligence Artificielle"
 show_downloads: true
 
 # Thème GitHub Pages (ex: jekyll-theme-cayman, jekyll-theme-architect, jekyll-theme-slate, jekyll-theme-modernist)
-theme: jekyll-theme-slate
+theme: jekyll-theme-modernist
 
 # Paramètres généraux
 lang: fr-FR
