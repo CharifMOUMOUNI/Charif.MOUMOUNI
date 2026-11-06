@@ -5,7 +5,7 @@ description: "Portfolio en Analyse de Données, Économétrie & Intelligence Art
 show_downloads: true
 
 # Thème GitHub Pages (ex: jekyll-theme-cayman, jekyll-theme-architect, jekyll-theme-slate, jekyll-theme-modernist)
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 
 # Paramètres généraux
 lang: fr-FR
