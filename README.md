@@ -3,48 +3,54 @@
 
 Titulaire d'une double **Licence en Statistique Appliquée et en Economie Agricole** ( Université de Parakou), passionné par la science des données et l'IA appliquée dans le secteur agricole. je procède des expériences de base en modélisation statistique et simulation de Monte-Carlo. Je vous aide réalisé des analyses statistiques et produits des rapports statitqiues. 
 
-Passionné par la modélisation mathématique et l'exploitation des données, je transforme des problématiques complexes en solutions décisionnelles claires et robustes.
-
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Compétences Techniques
 
-| Domaine | Outils & Langages |
+| Domaine | Outils & Technologies |
 | :--- | :--- |
-| **Programmation & Analyse** | `R`, `Python` (Pandas, NumPy, Matplotlib), `SQL`|
-| **Modélisation & Stats** | Tests d'hypothèses, Régression, Séries temporelles, Simulation Monte-Carlo |
-| **Logiciels Statistiques** | `SPSS`, `STATA` |
-| **BI & Visualisation** | `Power BI`, `LaTeX`, Suite Office |
-| **Collecte & Terrain** | `KoboCollect`, `CSPro`, `ODK`, `Google Forms` (Conception de masques & ETL) |
+| **Langages & Programmation** | `Python` (Pandas, NumPy, Matplotlib), `R`, `SQL` |
+| **Analyse Statistique & Économétrie** | Tests d'hypothèses, analyse de régression, séries temporelles, analyses factorielles, classification |
+| **Logiciels & Business Intelligence** | `STATA`, `SPSS`, `Power BI`, `LaTeX` |
+| **Collecte & Gestion de Données** | KoboCollect, CSPro, ODK, Google Forms (conception de masques et formulaires) |
 
 ---
 
-## 🎓 Projets & Réalisations Académiques
-
-*   📊 **Modélisation des revenus des ménages à l'aide d'une distribution de Pareto** *(Mémoire de Licence )*
-    *   *Descriptif :* Analyse exploratoire, simulation de Monte-Carlo et optimisation numérique sous **R** pour modéliser finement la distribution des revenus dans la ville de Parakou.
-*   💻 **Projets Data Science & IA (OpenClassrooms)**
-    *   Implémentation de modèles de Machine Learning, modélisation de séries temporelles et utilisation de méthodes ensemblistes.
-
----
-
-## 🏢 Expériences Professionnelles Clés
-
-*   🏛️ **Direction du Développement Local et de la Planification (DDLP) - Mairie de Copargo & Djougou** | *Stages Professionnel et Académique*
-    *   Appui à la planification stratégique, suivi des plans de développement communaux et élaboration de tableaux de bord décisionnels.
-* 🏛️ **Laboratoire de recherche en Science de la Population et de Développemnt** | *Stages  Académique*
-    *   Rédaction de mémoire portant sur la modélisation des revenus des ménages à l'aide d'une distribution de Pareto.
-*   📋 **Contrôleur & Assistant d'Enquête Statistique - ENSPD**
-    *   Encadrement d'agents enquêteurs, élaboration d'outils de collecte numériques (KoboCollect, CSPro) et assurance de la qualité des données.
+## 🎓 Éducation & Formation
+* **Licence en Economie Agricole** (2022-2025)  
+  * Faculté des Sciences Economiques et de Gestion (FASEG), Université de Parakou, Bénin. 
+* **Licence en Statistique Appliquée** (2021-2024)  
+  * École Nationale de Statistique de Planification et de Démographie (ENSPD), Université de Parakou, Bénin. 
+  * **Mémoire de fin d'études :** *Modélisation des revenus des ménages dans la ville de Parakou à l'aide d'une distribution de Pareto* .
+* **Formations Certifiantes (OpenClassrooms & DisasterReady, 2026) :**
+  * *Data Science, IA & Apprentissage Automatique* (Initiation IA/ML/Deep Learning, séries temporelles, méthodes ensemblistes).
+  * *Programmation & Analyse de données* (Python, R, SQL, tests statistiques).
+  * *Gestion de projet & Suivi-évaluation (MEAL)*.
 
 ---
 
-## 📫 Me contacter
+## 💼 Expériences Professionnelles & Stages
 
-*   📧 **Email :** [moumounicharif36@gmail.com](mailto:moumounicharif36@gmail.com)
-*   📱 **Téléphone :** +229 01 90 37 83 98 / 01 92 38 53 39
-*   📍 **Localisation :** Copargo, Donga, Bénin
-*   🔗 **LinkedIn :** [Insérer votre lien LinkedIn ici]
+* **Stagiaire en Suivi-Évaluation & Planification** — Mairie de Copargo (Avril - Juin 2026)
+  * Appui à la planification stratégique, gestion de projets de développement et élaboration de tableaux de bord.
+* **Stagiaire en Analyse Statistique** — Mairie de Djougou (Mai - Août 2025)
+  * Conception de masques de saisie, analyse de données et suivi des plans de développement communaux.
+* **Stagiaire Académique** — Laboratoire LaReSPD, Université de Parakou (Mai - Août 2024)
+  * Analyse exploratoire, simulation de Monte-Carlo, méthodes d'optimisation numérique et modélisation de revenus.
 
 ---
-*“In Data We Trust, but with rigorous statistics we verify.”*
+
+## 🔬 Projets & Engagements Notables
+
+* **Accompagnement Académique :** Mentorat et appui technique auprès d'étudiants pour la conception d'outils de collecte (Kobo/CSPro) et l'analyse statistique de leurs mémoires (R, SPSS, Excel).
+* **Contrôleur & Enquêteur Statistique :** Implication dans plusieurs enquêtes de terrain à l'ENSPD (formation d'enquêteurs, assurance qualité, apurement et gestion de bases de données).
+* **Implication Citoyenne :** Chargé de la communication des *Jeunes Sénateurs de Copargo* et participation active au 7ème Colloque Scientifique International de l'Université de Parakou.
+
+---
+
+## 📬 Contactez-moi
+
+* **Email :** [moumounicharif36@gmail.com](mailto:moumounicharif36@gmail.com)[cite: 1]
+* **Téléphone :** +229 01 90 37 83 98 / 01 92 38 53 39[cite: 1]
+* **Localisation :** Copargo, Donga, Bénin[cite: 1]
+* **LinkedIn / Portfolio :** *(Ajoutez vos liens ici)*
